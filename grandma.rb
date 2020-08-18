@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-gets.chomp
+"Talk to Grandma" = gets.chomp
 
 speak_to_grandma = "I love you Grandma!".upcase
 
