@@ -13,5 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-"Talk to Grandma" = gets.chomp
+"Talk to Grandma: " = gets.chomp
 
+speak_to_grandma = ""
