@@ -13,6 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-"Talk to Grandma: " = gets.chomp
+"Speak to Grandma: " = gets.chomp
 
-speak_to_grandma = ""
+speak_to_grandma = " ".upcase
+if speak_to_grandma == " "
+puts "HUH?! SPEAK UP, SONNY!"
+else
+  puts "I LOVE YOU TOO PUMPKIN!"
+end
